@@ -26,7 +26,7 @@ As part of the backend development team for a new user management system, you ne
 ## User Data Validation:
 
 - Use the provided MongoDB user schema to validate the incoming data.
-- Ensure the data matches the schema (e.g., correct data types, required fields, etc.).
+- Ensure the data matches  the schema (e.g., correct data types, required fields, etc.).
   - If the data is invalid:
     - Return a `400` status code with an appropriate error message.
   - If the data is valid:
